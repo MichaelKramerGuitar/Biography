@@ -35,7 +35,7 @@ Here are the specific requirements:
    * Internal links to other pages of your site do not count towards this
    requirement.
 
-# Tags Key/Guide Per first three pages for easy searching
+# Tags Key: first three pages for easy searching (obvious tags not included)
 
 ## index.html
 1. ```<section>```
