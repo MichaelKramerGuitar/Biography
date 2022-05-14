@@ -34,3 +34,38 @@ Here are the specific requirements:
 7. Include at least one image on every page
    * Internal links to other pages of your site do not count towards this
    requirement.
+
+# Unique Semantic Tags Key Per Page (5-7 unique tags)
+
+## index.html
+1. ```<section>```
+2. ```<ul>```
+3. ```<li>```
+4. ```<img>```
+5. ```<video>```
+6. ```<article>```
+7. ```<table>```
+8. ```<thead>```
+9. ```<tbody>```
+10. ```<tfoot>```
+11. ```<tr>```
+12. ```<td>```
+
+## army.html
+1. ```<figure>```
+2. ```<figcaption>```
+3. ```<main>```
+4. ```<iframe>```
+5. ```<menu>```
+   * in place of ```<nav>```
+   * note: different look in nav bar menu
+   * same funtion
+6. ```<abbr>```
+   * note: TUSAB in ```<h1>```
+     * hovering over shows title attribute
+7. ````<aside>````
+
+## freelance.html
+1. ```<menuitem>```
+   * note: the nav menu is horizontally rendered as a result
+2. 
