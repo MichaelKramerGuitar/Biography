@@ -3,7 +3,7 @@
 ## Requirements
 
 * Using only HTML 5 (no CSS, JavaScript, or other languages):
-  * You will create a three (3) page web site incorporating what you have learned
+  * You will create a three (3) page website incorporating what you have learned
     about HTML 5 this week. The focus of the site should be about you. Think of this
     as a biography that will grow into a larger project, a portfolio (term project). Your
     site can have an alternate topic/focus if approved in advance by your facilitator.
@@ -14,7 +14,7 @@ Here are the specific requirements:
    * Full paragraphs are 4-5 sentences in length.
 2. You must provide at least one (1) external hyperlink to a publicly hosted
      website(s) on at least one page.
-     * You can choose to link to your work, your home town, hobbies,
+     * You can choose to link to your work, your hometown, hobbies,
      interests, etc.
 3. You must use the new HTML5 structural elements on every page.
    * You can use the same image on every page, but if you do, that will
@@ -35,7 +35,7 @@ Here are the specific requirements:
    * Internal links to other pages of your site do not count towards this
    requirement.
 
-# Unique Semantic Tags Key Per Page (5-7 unique tags)
+# Tags Key/Guide Per first three pages for easy searching
 
 ## index.html
 1. ```<section>```
@@ -56,16 +56,16 @@ Here are the specific requirements:
 2. ```<figcaption>```
 3. ```<main>```
 4. ```<iframe>```
-5. ```<menu>```
-   * in place of ```<nav>```
-   * note: different look in nav bar menu
-   * same funtion
-6. ```<abbr>```
+5. ```<abbr>```
    * note: TUSAB in ```<h1>```
      * hovering over shows title attribute
-7. ````<aside>````
+6. ````<aside>````
 
 ## freelance.html
-1. ```<menuitem>```
-   * note: the nav menu is horizontally rendered as a result
-2. 
+1. ```<form>```
+2. ```<label>```
+3. ```<input>```
+4. ```<textarea>```
+5. ```<button>```
+6. ```<b>```
+7. ```<i>```

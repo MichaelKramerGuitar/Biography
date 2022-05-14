@@ -3,33 +3,29 @@
 <html lang="en">
     <head>
         <meta charset="UTF-8">
+        <!-- important for responsive design -->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Michael Kramer Home</title>
     </head>
-
     <body>
-        <section>
-            <h4>Menu</h4>
+        <div>
             <nav>
-                <ul>
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="army.html">Army Career</a></li>
-                    <li><a href="freelance.html">Freelance Career</a></li>
-                </ul>
+                <a href="index.html">Home</a> |
+                <a href="army.html">Army Career</a> |
+                <a href="freelance.html">Freelance Career</a>
             </nav>
-        </section>
-
+        </div>
         <section>
-            <!--- visual divider --->
+            <!-- visual divider -->
             <svg viewBox="0 0 1 .01" xmlns="http://www.w3.org/2000/svg">
                 <rect width="1" height=".01">
                     <animate attributeName="rx" values="0;1;0" dur="10s" repeatCount="indefinite" />
                 </rect>
             </svg>
             <h1>Video Introduction</h1>
-            <video src="videos/intro.mp4"
-                   poster="images/michael1.PNG"
-                   width="400"
-                   height="300"
+            <video src="../videos/intro.mp4"
+                   poster="../images/michael1.PNG"
+                   style="width: 50%; height: 50%"
                    preload controls loop>
                 <p>My time at BU</p>
             </video>
@@ -40,7 +36,7 @@
                 Michael Kramer is a Washington, DC native. He is a member of the United States Army Band,
                 "Pershing's Own", The U.S. Army Blues Jazz Ensemble and also an active freelance musician
                 and bandleader in the Washington, D.C. area. In addition to playing guitar, Michael enjoys
-                composing and recording and learning how to program computers. Michael also enjoys reading - the
+                composing, recording and learning how to program computers. Michael also enjoys reading - the
                 most impactful book he has read over the past 3 years was
                 <a href="https://www.amazon.com/Antifragile-Nassim-Nicholas-Taleb-audiobook/dp/B00A2ZIZYQ"
                 target="_blank">
@@ -51,7 +47,7 @@
             </p>
         </article>
         <section>
-            <!--- visual divider --->
+            <!-- visual divider -->
             <svg viewBox="0 0 1 .01" xmlns="http://www.w3.org/2000/svg">
                 <rect width="1" height=".01">
                     <animate attributeName="rx" values="0;1;0" dur="10s" repeatCount="indefinite" />
@@ -130,7 +126,7 @@
                     </tr>
                 </tfoot>
             </table>
-            <!--- visual divider --->
+            <!-- visual divider -->
             <svg viewBox="0 0 1 .01" xmlns="http://www.w3.org/2000/svg">
                 <rect width="1" height=".01">
                     <animate attributeName="rx" values="0;1;0" dur="10s" repeatCount="indefinite" />
@@ -138,7 +134,7 @@
             </svg>
         </section>
         <footer>
-            <p>&copy; Michael Kramer</p>
+            <small>Michael Kramer &copy; 2022 All Rights Reserved</small>
         </footer>
     </body>
 </html>
