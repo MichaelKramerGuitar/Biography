@@ -69,3 +69,4 @@ Here are the specific requirements:
 5. ```<button>```
 6. ```<b>```
 7. ```<i>```
+8. ```<cite>```
