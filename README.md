@@ -35,7 +35,19 @@ Here are the specific requirements:
    * Internal links to other pages of your site do not count towards this
    requirement.
 
-# Tags Key: first three pages for easy searching (obvious tags not included)
+# How to Run
+* Entry point: index.html
+  * use nav bar to navigate just like a webpage on the internet
+  * all links work
+  * Note: army.html ```<article id=banjo-solo>``` embedded link occasionally renders ```Video Unavailable: Watch on YouTube``` when using Microsoft Edge
+    * link still works in this case
+  * all images belong to Michael Kramer unless otherwise noted
+  * all input is mock/prototyping as Javascript was not allowed for this assignment 
+
+# Project Concept
+* Share information about my career 
+
+# Tags Key: first three pages for easy searching (obvious tags like ```<title>, <meta>, <header>, <body>, <footer>, <div> ``` not included in key)
 
 ## index.html
 1. ```<section>```
@@ -50,6 +62,7 @@ Here are the specific requirements:
 10. ```<tfoot>```
 11. ```<tr>```
 12. ```<td>```
+13. ```<small>```
 
 ## army.html
 1. ```<figure>```
@@ -70,3 +83,20 @@ Here are the specific requirements:
 6. ```<b>```
 7. ```<i>```
 8. ```<cite>```
+
+# File Structure
+```html
+├───html
+│       army.html
+│       blog.html
+│       foundational-melodies.html
+│       freelance.html
+│       index.html
+│       speech.html
+│
+├───images
+│       ***image-assets-here***
+│
+└───videos
+        ***video-assets-here***
+```
