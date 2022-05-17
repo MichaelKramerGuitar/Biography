@@ -1,4 +1,4 @@
-# CS601 Web Application Development Assignment 1: Biography 
+# Web Application Development Assignment 1: Biography 
 
 ## Requirements
 
@@ -36,18 +36,24 @@ Here are the specific requirements:
    requirement.
 
 # How to Run
-* Entry point: index.html
+* Entry point: ```index.html```
   * use nav bar to navigate just like a webpage on the internet
   * all links work
-  * Note: army.html ```<article id=banjo-solo>``` embedded link occasionally renders ```Video Unavailable: Watch on YouTube``` when using Microsoft Edge
+  * Note: ```army.html``` ```<article id=banjo-solo>``` embedded link occasionally renders ```Video Unavailable: Watch on YouTube``` when using Microsoft Edge
     * link still works in this case
   * all images belong to Michael Kramer unless otherwise noted
   * all input is mock/prototyping as Javascript was not allowed for this assignment 
 
 # Project Concept
-* Share information about my career 
+* Give an overall impression of who I am and where I'm at professionally and as a student wrapping up his masters in software development
+* Share information about my career as a musician in the army
+* Share information about my freelance career and band leading experience
+* Share information pertaining to others having hired me to speak publicly 
+* Share information about my concept on how to develop as a jazz musician
+* Start to workshop the idea of a regular blog 
 
-# Tags Key: first three pages for easy searching (obvious tags like ```<title>, <meta>, <header>, <body>, <footer>, <div> ``` not included in key)
+# Tags Key: first three pages for easy searching 
+* (obvious tags like ```<title>, <meta>, <header>, <body>, <footer>, <div> ``` not included in key)
 
 ## index.html
 1. ```<section>```
