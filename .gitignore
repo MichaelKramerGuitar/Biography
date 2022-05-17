@@ -1,3 +1,5 @@
 /images
 /videos
 /metcs601_assignment1.pdf
+# Local Netlify folder
+.netlify
