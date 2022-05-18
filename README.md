@@ -92,17 +92,27 @@ Here are the specific requirements:
 
 # File Structure
 ```html
-├───html
-│       army.html
-│       blog.html
-│       foundational-melodies.html
-│       freelance.html
-│       index.html
-│       speech.html
+└───html
+│   army.html
+│   blog.html
+│   foundational-melodies.html
+│   freelance.html
+│   index.html
+│   speech.html
 │
-├───images
-│       ***image-assets-here***
-│
-└───videos
-        ***video-assets-here***
+    ├───images
+    │       armyblues-epk2021.jpg
+    │       black-hole.PNG
+    │       dizzy.jpg
+    │       ellington.jpg
+    │       michael-army.jpg
+    │       michael-speech.jpg
+    │       michael1.PNG
+    │       michael2.PNG
+    │       pie-face1.jpg
+    │       pie-face2.jpg
+    │       superstringlogo.PNG
+    │       triangles.PNG
+    └───videos
+            intro.mp4
 ```
